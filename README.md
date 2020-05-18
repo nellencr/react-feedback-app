@@ -21,7 +21,7 @@
 - Email: nellencr@gmail
 
 ### `LIVE DEMO`
-Open [live demo](https://raw.githack.com/nellencr/Calculator/feature/index.html)
+Open [live demo](https://loving-khorana-d795e6.netlify.app/)
 
 
 
