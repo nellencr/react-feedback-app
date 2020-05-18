@@ -1,4 +1,4 @@
-**This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It allow the users to give feedback based on specific feedback**
+**This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It allow the users to give feedback based on specific stats**
 
 # FEEDBACK APP
 
