@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: #296EB4;
+}
+
+button {
+  background-color: #BB7E8C;
+  background-color: #BB7E8C;
+  padding: 9px;
+  border-radius: 7px;
+  width: 66px;
+  border: 1px solid skyblue;
+  font-size: 16px;
+  color: gainsboro;
+}
+
